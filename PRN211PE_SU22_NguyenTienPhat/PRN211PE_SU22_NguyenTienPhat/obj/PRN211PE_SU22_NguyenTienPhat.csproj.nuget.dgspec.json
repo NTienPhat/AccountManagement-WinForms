@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user\\Desktop\\PRN211PE\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhat.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user\\Desktop\\PRN211PE\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhatRepo\\PRN211PE_SU22_NguyenTienPhatRepo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\PRN211PE\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhatRepo\\PRN211PE_SU22_NguyenTienPhatRepo.csproj",
+        "projectName": "PRN211PE_SU22_NguyenTienPhatRepo",
+        "projectPath": "C:\\Users\\user\\Desktop\\PRN211PE\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhatRepo\\PRN211PE_SU22_NguyenTienPhatRepo.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\PRN211PE\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhatRepo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Visual components,tolls,SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user\\Desktop\\PRN211PE\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\PRN211PE\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhat.csproj",
+        "projectName": "PRN211PE_SU22_NguyenTienPhat",
+        "projectPath": "C:\\Users\\user\\Desktop\\PRN211PE\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhat.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\PRN211PE\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhat\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Visual components,tolls,SDK\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\user\\Desktop\\PRN211PE\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhatRepo\\PRN211PE_SU22_NguyenTienPhatRepo.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\PRN211PE\\PRN211PE_SU22_NguyenTienPhat\\PRN211PE_SU22_NguyenTienPhatRepo\\PRN211PE_SU22_NguyenTienPhatRepo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

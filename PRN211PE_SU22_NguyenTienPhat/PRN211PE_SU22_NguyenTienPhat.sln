@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRN211PE_SU22_NguyenTienPhat", "PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhat.csproj", "{EAC18155-7899-4F78-9C3A-4769AB24B48F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRN211PE_SU22_NguyenTienPhatRepo", "PRN211PE_SU22_NguyenTienPhatRepo\PRN211PE_SU22_NguyenTienPhatRepo.csproj", "{AF2B5E1B-6830-4769-BD4E-F9714DB2C8FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC18155-7899-4F78-9C3A-4769AB24B48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC18155-7899-4F78-9C3A-4769AB24B48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC18155-7899-4F78-9C3A-4769AB24B48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC18155-7899-4F78-9C3A-4769AB24B48F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2B5E1B-6830-4769-BD4E-F9714DB2C8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2B5E1B-6830-4769-BD4E-F9714DB2C8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2B5E1B-6830-4769-BD4E-F9714DB2C8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2B5E1B-6830-4769-BD4E-F9714DB2C8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50EBB8F2-FE54-415F-8637-593DC008D60E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\bin\Debug\net5.0\PRN211PE_SU22_NguyenTienPhatRepo.deps.json
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\bin\Debug\net5.0\PRN211PE_SU22_NguyenTienPhatRepo.runtimeconfig.json
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\bin\Debug\net5.0\PRN211PE_SU22_NguyenTienPhatRepo.runtimeconfig.dev.json
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\bin\Debug\net5.0\PRN211PE_SU22_NguyenTienPhatRepo.dll
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\bin\Debug\net5.0\PRN211PE_SU22_NguyenTienPhatRepo.pdb
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\obj\Debug\net5.0\PRN211PE_SU22_NguyenTienPhatRepo.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\obj\Debug\net5.0\PRN211PE_SU22_NguyenTienPhatRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\obj\Debug\net5.0\PRN211PE_SU22_NguyenTienPhatRepo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\obj\Debug\net5.0\PRN211PE_SU22_NguyenTienPhatRepo.AssemblyInfo.cs
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\obj\Debug\net5.0\PRN211PE_SU22_NguyenTienPhatRepo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\obj\Debug\net5.0\PRN211PE_SU22_NguyenTienPhatRepo.dll
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\obj\Debug\net5.0\refint\PRN211PE_SU22_NguyenTienPhatRepo.dll
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\obj\Debug\net5.0\PRN211PE_SU22_NguyenTienPhatRepo.pdb
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\obj\Debug\net5.0\PRN211PE_SU22_NguyenTienPhatRepo.genruntimeconfig.cache
+C:\Users\user\Desktop\PRN211PE\PRN211PE_SU22_NguyenTienPhat\PRN211PE_SU22_NguyenTienPhatRepo\obj\Debug\net5.0\ref\PRN211PE_SU22_NguyenTienPhatRepo.dll
